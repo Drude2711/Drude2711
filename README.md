@@ -1,49 +1,54 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f5fff,100:0c3fff&height=200&section=header&text=Anders%20Myrup&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Denmark&descAlignY=58&descAlign=50)
 
-###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0044&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;System+Builder;)](https://git.io/typing-svg)
 
-<p align="left">My name is Anders and I'm a Software Developer, from Denmark</p>
+---
 
-###
+## ⚡ Tech Stack
 
-<h2 align="left">About me</h2>
+[![java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)](https://www.java.com)
+[![javascript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![csharp](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![c](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![html5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![css3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![mysql](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)](https://www.mysql.com/)
+[![sqlite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg)](https://www.sqlite.org/)
+[![azure](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg)](https://azure.microsoft.com/)
+[![intellij](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg)](https://www.jetbrains.com/idea/)
+[![clion](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg)](https://www.jetbrains.com/clion/)
+[![vscode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)](https://code.visualstudio.com/)
 
-###
+---
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning at Erhvervsakadamiet Herning<br>🎲 Fun fact: I play a lot.</p>
+## 📊 System Metrics
 
-###
+![Anders's GitHub stats](https://github-readme-stats-seven-jade-74.vercel.app/api?username=Drude2711&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff0044&text_color=ff4400&icon_color=ff0044)
 
-<h2 align="left">I code with</h2>
+![GitHub Streak](https://streak-stats.demolab.com?user=Drude2711&hide_border=true&background=0D1117&ring=ff0044&fire=ff4400&currStreakLabel=ff0044&sideLabels=ff4400&dates=ff4400&currStreakNum=ff0044&sideNums=ff0044)
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="40" alt="clion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-</div>
+## 🌐 About Me
 
-###
+* 🧠 **Name:** Anders Myrup
+* 📍 **Location:** Denmark
+* 🎓 **Studying at:** Erhvervsakademiet Herning
+* ✨ **Creating bugs since:** 2023
+* 🎲 **Fun fact:** I play a lot.
+* 🔗 **LinkedIn:** [in/anders-myrup-15bb85290](https://www.linkedin.com/in/anders-myrup-15bb85290)
+
+---
+
+## 🚀 Current Focus
+
+* ⚙️ Building full stack applications
+* 🧠 Deepening knowledge in backend systems
+* 💾 Working with databases & cloud (Azure)
+* 🤝 Collaborating on team projects
+
+---
+
+[![footer](https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,100:00c3ff&height=2)](https://github.com/Drude2711)
+
+*"Not force it. Make it fun"*
